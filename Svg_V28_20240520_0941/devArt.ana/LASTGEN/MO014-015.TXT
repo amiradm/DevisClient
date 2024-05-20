@@ -1,0 +1,5 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+client2		TAR	93	nouvelle taille enregistrement : 93
+client2		IDE+*		fichier avec identifiant
+client2	cli_Num	CLEU*		la rubrique cli_Num est maintenant une clé
+client2	cli_Num	CNW	Identifiant automatique (8 octets)$Entier sur 4 octets	la rubrique cli_Num a pour nouveau type Identifiant automatique (8 oct

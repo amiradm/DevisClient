@@ -1,0 +1,11 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+client		TAR	179	nouvelle taille enregistrement : 179
+client		IDE-*		fichier sans identifiant
+client	prenom	NNR	nom	ATTENTION : la rubrique nom a pour nouveau nom prenom
+client	cli_Num	CLE-*		la rubrique cli_Num n'est plus une clé
+client	cli_Num	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique cli_Num a pour nouveau type Entier sur 4 octets
+client	nom	NNR	prenom	ATTENTION : la rubrique prenom a pour nouveau nom nom
+client	nom	TAI-	39	la rubrique nom a comme nouvelle taille 12 au lieu de 51
+client	raison_Sociale	TAI-	31	la rubrique raison_Sociale a comme nouvelle taille 20 au lieu de 51
+client	mail	TAI-	23	la rubrique mail a comme nouvelle taille 28 au lieu de 51
+client	telephone	CNW	Entier sur 4 octets$Chaîne	la rubrique telephone a pour nouveau type Entier sur 4 octets

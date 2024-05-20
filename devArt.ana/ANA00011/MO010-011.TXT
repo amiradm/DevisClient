@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+client		TAR	175	nouvelle taille enregistrement : 175
+client		IDE-*		fichier sans identifiant
+client	cli_Num	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique cli_Num a pour nouveau type Entier sur 4 octets

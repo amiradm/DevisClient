@@ -1,0 +1,2 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+client	cli_Num	CLEU*		la rubrique cli_Num est maintenant une clé

@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+client		TAR	282	nouvelle taille enregistrement : 282
+client	ville	RUB+		ville est une nouvelle rubrique

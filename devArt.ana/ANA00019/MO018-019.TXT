@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+client		TAR	230	nouvelle taille enregistrement : 230
+client	code_Postal	RUB+		code_Postal est une nouvelle rubrique
+client2		FIC-	client2	Fichier supprimé client2

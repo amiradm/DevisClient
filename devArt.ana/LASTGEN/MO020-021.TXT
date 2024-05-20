@@ -1,0 +1,7 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+client		TAR	230	nouvelle taille enregistrement : 230
+client	Dev_Id	RUB-		la rubrique Dev_Id est supprimée
+devis		TAR	104	nouvelle taille enregistrement : 104
+devis	Cli_Num	RUB+		Cli_Num est une nouvelle clé
+Contrainte_devis_client		NWL	client (cli_Num) et devis (Cli_Num)	Nouvelle liaison entre les fichiers client (cli_Num) et devis (Cli_Num)
+Contrainte_client_devis		DEL	devis (dev_Id) et client (Dev_Id)	Liaison supprimée entre les fichiers devis (dev_Id) et client (Dev_Id)

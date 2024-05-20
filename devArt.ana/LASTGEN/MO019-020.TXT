@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+client		TAR	239	nouvelle taille enregistrement : 239
+client	Dev_Id	RUB+		Dev_Id est une nouvelle clé
+Contrainte_client_devis		NWL	devis (dev_Id) et client (Dev_Id)	Nouvelle liaison entre les fichiers devis (dev_Id) et client (Dev_Id)
